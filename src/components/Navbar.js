@@ -35,7 +35,6 @@ function NavBar(){
             >
                 Resume
             </NavLink>
-            
         </div>
     </div>
     );
