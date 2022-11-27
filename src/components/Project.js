@@ -12,8 +12,8 @@ function ProjectCards(props) {
             </div>
 
             <div className="links">
-                <a href={props.github} target="_blank">Github Repo</a>
-                <a href={props.deploy} target="_blank">Deployed App</a>
+                <a href={props.github} target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Github Repo" id="project-icon"/>Github Repo</a>
+                <a href={props.deploy} target="_blank"><img src="https://img.icons8.com/color/48/000000/monitor.png" alt="Deployed Application" id="project-icon"/>Deployed App</a>
             </div>
         </div>
     );
