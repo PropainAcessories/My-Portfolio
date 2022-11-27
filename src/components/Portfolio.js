@@ -2,7 +2,7 @@ import React from "react";
 import projectData from '../projectData';
 import ProjectCards from "../components/Project";
 import '../App.css';
-
+// import '../portfolio.css';
 
 function Portfolio() {
     return(
@@ -29,7 +29,6 @@ function Portfolio() {
                                          />
                                     ))}
                                 </div>
-                                
                             </div>
                         </div>
                     </div>
