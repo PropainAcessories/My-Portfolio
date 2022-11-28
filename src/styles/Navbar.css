@@ -1,0 +1,44 @@
+.navbar {
+    overflow: auto;
+    padding: 0 15px;
+    min-height: 9vh;
+    background: rgb(44, 3, 44);
+    align-items: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar-left {
+    float: left;
+    padding: 15px 15px;
+    font-size: 25px;
+}
+
+.navbar-right {
+    float: right;
+    padding: 15px 15px;
+    font-size: 20px;
+    color: rgb(44, 3, 44)
+}
+
+.navbar a:hover {
+    background-color: #17ee0f;
+    color: black;
+    list-style: none;
+}
+
+.navbar__link--active {
+    background-color: #17ee0f;
+    color: black;
+    list-style: none;
+}

@@ -1,10 +1,11 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import '../styles/Navbar.css';
 
 function NavBar(){
     return (
-    <div className='topnav'>
-        <div className='topnav-left'>
+    <div className='navbar'>
+        <div className='navbar-left'>
             <NavLink
             activeClassName='navbar__link--active'
             className='navbar__link'
@@ -13,7 +14,7 @@ function NavBar(){
                 About
             </NavLink>
         </div>
-        <div className='topnav-right'>
+        <div className='navbar-right'>
             <NavLink
             activeClassName='navbar__link--active'
             className='navbar__link'

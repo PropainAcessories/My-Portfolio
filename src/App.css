@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  font-family: sans-serif;
 }
 
 .App-logo {
@@ -22,6 +22,74 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.container {
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.card {
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-clip: border-box;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+}
+
+.card-body {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding-top: 1rem;
+}
+
+.footer {
+  background-color: #8fadec;
+  padding-top: 1rem;
+}
+
+.modal-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  border-top: 1px solid #ffffff;
+  border-bottom-right-radius: calc(0.3rem - 1px);
+  border-bottom-left-radius: calc(0.3rem - 1px);
+  margin-bottom: 0.25rem;
+  margin-right: 2.5rem;
+  margin-left: 2.5rem;
+  padding-top: 1rem;
+}
+
+.header {
+  padding-top: 1rem;
+  padding-left: 40px;
+}
+
+.wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.portfolio-grid-item {
+  text-align: left;
+}
+
+.portfolio-grid-container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
 }
 
 .App-link {
