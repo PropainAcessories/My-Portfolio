@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4a03b8abb68525d979eb",
-    "url": "/my-portfolio/static/css/main.78ba2f10.chunk.css"
+    "revision": "d9846b79367dccfbd351",
+    "url": "/my-portfolio/static/css/main.3f6d5dd8.chunk.css"
   },
   {
-    "revision": "4a03b8abb68525d979eb",
-    "url": "/my-portfolio/static/js/main.4a03b8ab.chunk.js"
+    "revision": "d9846b79367dccfbd351",
+    "url": "/my-portfolio/static/js/main.d9846b79.chunk.js"
   },
   {
     "revision": "093ecf0bec58628b4322",
@@ -22,6 +22,10 @@ self.__precacheManifest = [
   {
     "revision": "6eb1ec88862d60c5f1a1",
     "url": "/my-portfolio/static/js/runtime~main.6eb1ec88.js"
+  },
+  {
+    "revision": "43b28ab2ac1d1636842f7f80bb44b53e",
+    "url": "/my-portfolio/static/media/clouds.43b28ab2.jpg"
   },
   {
     "revision": "2a4ff0a31c1b38d5530b7a11baeb7dd1",
@@ -52,7 +56,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/WeatherDashboard.2d22ebec.png"
   },
   {
-    "revision": "ce1a4d2a7a603494970d2a630c9c091e",
+    "revision": "5393d6a11b1c745dd79370797c0dbf1d",
     "url": "/my-portfolio/index.html"
   }
 ];

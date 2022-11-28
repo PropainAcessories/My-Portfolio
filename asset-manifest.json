@@ -1,7 +1,7 @@
 {
-  "main.css": "/my-portfolio/static/css/main.78ba2f10.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.4a03b8ab.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.4a03b8ab.chunk.js.map",
+  "main.css": "/my-portfolio/static/css/main.3f6d5dd8.chunk.css",
+  "main.js": "/my-portfolio/static/js/main.d9846b79.chunk.js",
+  "main.js.map": "/my-portfolio/static/js/main.d9846b79.chunk.js.map",
   "static/js/1.093ecf0b.chunk.js": "/my-portfolio/static/js/1.093ecf0b.chunk.js",
   "static/js/1.093ecf0b.chunk.js.map": "/my-portfolio/static/js/1.093ecf0b.chunk.js.map",
   "static/css/2.eb115f06.chunk.css": "/my-portfolio/static/css/2.eb115f06.chunk.css",
@@ -9,6 +9,7 @@
   "static/js/2.d09a7290.chunk.js.map": "/my-portfolio/static/js/2.d09a7290.chunk.js.map",
   "runtime~main.js": "/my-portfolio/static/js/runtime~main.6eb1ec88.js",
   "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.6eb1ec88.js.map",
+  "static/media/App.css": "/my-portfolio/static/media/clouds.43b28ab2.jpg",
   "static/media/Me.jpg": "/my-portfolio/static/media/Me.2a4ff0a3.jpg",
   "static/media/MusicPilot.png": "/my-portfolio/static/media/MusicPilot.a9815532.png",
   "static/media/BankApp.png": "/my-portfolio/static/media/BankApp.dc4e6d99.png",
@@ -16,9 +17,9 @@
   "static/media/PwaTextEditor.png": "/my-portfolio/static/media/PwaTextEditor.09f04a14.png",
   "static/media/TechForum.png": "/my-portfolio/static/media/TechForum.840ccc5b.png",
   "static/media/WeatherDashboard.png": "/my-portfolio/static/media/WeatherDashboard.2d22ebec.png",
-  "static/css/main.78ba2f10.chunk.css.map": "/my-portfolio/static/css/main.78ba2f10.chunk.css.map",
+  "static/css/main.3f6d5dd8.chunk.css.map": "/my-portfolio/static/css/main.3f6d5dd8.chunk.css.map",
   "static/css/2.eb115f06.chunk.css.map": "/my-portfolio/static/css/2.eb115f06.chunk.css.map",
   "index.html": "/my-portfolio/index.html",
-  "precache-manifest.c0e19220c21a9367f1245ee8a2d80b3e.js": "/my-portfolio/precache-manifest.c0e19220c21a9367f1245ee8a2d80b3e.js",
+  "precache-manifest.6a8fa2eff6a13360db6e8522e969d177.js": "/my-portfolio/precache-manifest.6a8fa2eff6a13360db6e8522e969d177.js",
   "service-worker.js": "/my-portfolio/service-worker.js"
 }
