@@ -44,4 +44,4 @@
   <br/>
   🐔Email me any support questions: hhc3h8@gmail.com<br/>
 
-![Alt text](../../../E:/GT-Coding-BootCamp/my-portfolio/src/assets/images/Screenshot.png)
+![](../../../E:/GT-Coding-BootCamp/my-portfolio/src/assets/images/Screenshot.png)
