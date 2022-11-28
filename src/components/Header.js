@@ -24,7 +24,7 @@ function Header() {
                 </Route>
                 <Route path='/portfolio' component={Portfolio} />
                 <Route path='/contact' component={Contact} />
-                <Route path='resume'>
+                <Route path='/resume'>
                     <Resume />
                 </Route>
             </Switch>

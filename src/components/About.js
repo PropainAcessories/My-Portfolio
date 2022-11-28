@@ -1,4 +1,5 @@
 import React from "react";
+import Me from '../assets/images/Me.jpg'
 
 function About() {
     return(
@@ -10,14 +11,17 @@ function About() {
 
                             <div className="card-body">
                                 <div className="row about-row">
-                                    Image here
+                                    <img className="myImg" src={Me}/>
                                 </div>
                             </div>
 
                             <div className="card-body">
                                 <div className="row">
                                     <p className="aboutMe">
-                                        Hello World
+                                        My Name is Henry Howe. As of writing this I am an entry-level 
+                                        web-developer. Capable of making and working on full-stack web and 
+                                        Mobile applications. I have a wide variety of skills, and am looking forward 
+                                        to making a useful addition to a company in the very-near future.
                                     </p>
                                 </div>
                             </div>

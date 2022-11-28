@@ -89,6 +89,17 @@
   padding-top: 1rem;
 }
 
+.myImg {
+  padding-top: 10px;
+  vertical-align: middle;
+  width: 200px;
+  height: 280px;
+}
+
+.about-row {
+  height: 300px;
+}
+
 .header {
   padding-top: 1rem;
   padding-left: 40px;

@@ -9,8 +9,8 @@ function Resume() {
                 <div className="row">
                     <div className="col">
                         <div className="card">
-                            <h4>Download Resume
-
+                            <h4>View Resume
+                            <a href="https://raw.githubusercontent.com/PropainAcessories/my-portfolio/master/src/assets/Resume.txt">Henry Howe</a>
                             </h4>
                         </div>
 
