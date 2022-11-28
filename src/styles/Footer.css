@@ -1,0 +1,12 @@
+.img-link {
+    text-align: center;
+}
+
+#footer {
+    padding: 5px;
+    margin-top: 5px;
+}
+
+#footer .icon {
+    background-color: #313638;
+}
