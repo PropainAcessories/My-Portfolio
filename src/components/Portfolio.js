@@ -8,7 +8,7 @@ function Portfolio() {
     return(
         <React.Fragment>
             <div className="container">
-                <div className="row bg-secondary">
+                <div className="row">
                     <div className="col">
                         <div className="card bg-secondary">
                             <div className="card-body">
