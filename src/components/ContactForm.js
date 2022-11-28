@@ -45,7 +45,7 @@ function contactForm() {
     }
 
     return (
-        <Form onSubmit={sendEmail} id='contactForm'>
+        <Form className='text-white' onSubmit={sendEmail} id='contactForm'>
             <Form.Group controlId='name'>
                 <Form.Label>Your Name</Form.Label>
                 <Form.Control required name='name' placeholder="Henry" onBlur={handleChange}></Form.Control>
