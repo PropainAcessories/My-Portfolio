@@ -8,35 +8,35 @@ import '../App.css'
 function Contact() {
     return(
         <div className='container'>
-            <Container className='text-center'>
+            <Container className='text-center bg-dark text-white'>
                 <div className='p-md-5'>
                     <h1>Contact Me</h1>
                 </div>
             </Container>
 
-            <Container fluid className='shadow bg-white mb-5'>
+            <Container fluid className='shadow bg-dark mb-5'>
                 <Container className='p-4'>
                     <Row>
                         <Col>
                             <Container>
-                                <h4 style={{color: '#f08563'}}>Contact Information</h4>
+                                <h4 className="text-white">Contact Information</h4>
                                 <p>
-                                    <a href="mailto:hhc3h8@gmail.com">
+                                    <a href="mailto:hhc3h8@gmail.com" className="text-white">
                                         hh3h8@gmail.com
                                     </a>
                                 </p>
                                 <p>
-                                    <a href='https://github.com/PropainAcessories' target='_blank'>My GitHub</a>
+                                    <a href='https://github.com/PropainAcessories' target='_blank' className="text-white">My GitHub</a>
                                 </p>
                                 <p>
-                                    <a href='https://www.linkedin.com/in/henry-howe-a13341258/'>LinkedIn</a>
+                                    <a href='https://www.linkedin.com/in/henry-howe-a13341258/' className="text-white">LinkedIn</a>
                                 </p>
                             </Container>
                         </Col>
                         
                         <Col sm={12} md={6} lg={8} className='pt-sm-4 pt-lg-0'>
                             <Container>
-                                <h4 style={{color: '#f08563'}}>Send Me a Message</h4>
+                                <h4 className="text-white">Send Me a Message</h4>
                                 <ContactForm />
                             </Container>
                         </Col>

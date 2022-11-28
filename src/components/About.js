@@ -7,15 +7,15 @@ function About() {
             <div className="container">
                 <div className="row">
                     <div className="col">
-                        <div className="card">
+                        <div className="card bg-dark">
 
-                            <div className="card-body">
+                            <div className="card-body bg-dark">
                                 <div className="row about-row">
                                     <img className="myImg" src={Me}/>
                                 </div>
                             </div>
 
-                            <div className="card-body">
+                            <div className="card-body bg-dark text-white">
                                 <div className="row">
                                     <p className="aboutMe">
                                         My Name is Henry Howe. As of writing this I am an entry-level 

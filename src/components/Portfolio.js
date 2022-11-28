@@ -8,12 +8,12 @@ function Portfolio() {
     return(
         <React.Fragment>
             <div className="container">
-                <div className="row">
+                <div className="row bg-secondary">
                     <div className="col">
-                        <div className="card">
+                        <div className="card bg-secondary">
                             <div className="card-body">
                                 <div className="header">
-                                    <h3>Portfolio</h3>
+                                    <h3 className="text-white">My Portfolio</h3>
                                 </div>
                                 <div className="modal-footer" />
 

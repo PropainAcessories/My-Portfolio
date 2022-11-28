@@ -5,7 +5,7 @@ import '../styles/Portfolio.css';
 function Resume() {
     return(
         <React.Fragment>
-            <div className="container">
+            <div className="container bg-dark text-white">
                 <div className="row">
                     <div className="col">
                         <div className="card">
