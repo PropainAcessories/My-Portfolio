@@ -43,4 +43,6 @@
   🐔My Github: [PropainAcessories](https://github.com/undefined)<br/>
   <br/>
   🐔Email me any support questions: hhc3h8@gmail.com<br/>
-![Alt text](../../../E:/GT-Coding-BootCamp/my-portfolio/src/assets/images/Screenshot.png)
+
+  ## Screenshot
+  ![Alt text](../../../E:/GT-Coding-BootCamp/my-portfolio/src/assets/images/Screenshot.png)
