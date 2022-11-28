@@ -2,7 +2,7 @@ import React from "react";
 import projectData from '../projectData';
 import ProjectCards from "../components/Project";
 import '../App.css';
-// import '../portfolio.css';
+import '../styles/Portfolio.css';
 
 function Portfolio() {
     return(

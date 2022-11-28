@@ -1,6 +1,6 @@
 import React from "react";
 import '../App.css';
-// import '../portfolio.css';
+import '../styles/Portfolio.css';
 
 function ProjectCards(props) {
     return (

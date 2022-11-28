@@ -4,7 +4,7 @@ import BankApp from './assets/images/BankApp.png';
 import NoteTaker from './assets/images/NoteTaker.png';
 import PwaTextEditor from './assets/images/PwaTextEditor.png';
 import TechForum from './assets/images/TechForum.png';
-
+import WeatherDashboard from './assets/images/WeatherDashboard.png';
 
 export default [
     {
@@ -36,10 +36,10 @@ export default [
         'deploy': 'https://enigmatic-basin-65394.herokuapp.com/',
     },
     {
-        'id': 5,
-        'name': 'Tech Forum',
-        'image': TechForum,
-        'github': 'https://github.com/PropainAcessories/Tech-Blog',
-        'deploy': 'https://boiling-lowlands-78810.herokuapp.com/',
+        'id': 6,
+        'name': 'Weather Dashboard',
+        'image': WeatherDashboard,
+        'github': 'https://github.com/PropainAcessories/Homework-6',
+        'deploy': 'https://propainacessories.github.io/Homework-6/',
     },
 ]
