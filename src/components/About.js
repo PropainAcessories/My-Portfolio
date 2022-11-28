@@ -9,7 +9,7 @@ function About() {
                         <div className="card">
 
                             <div className="card-body">
-                                <div className="row abstract-back">
+                                <div className="row about-row">
                                     Image here
                                 </div>
                             </div>

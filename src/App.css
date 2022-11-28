@@ -24,6 +24,10 @@
   color: white;
 }
 
+.icon {
+  padding: 10px;
+}
+
 .container {
   width: 100%;
   padding-left: 15px;
@@ -94,6 +98,55 @@
 
 .App-link {
   color: #61dafb;
+}
+
+@media screen and (max-width: 960px) {
+  .grid-container-profile {
+    grid-template-columns: repeat(2, 420px);
+    grid-template-rows: repeat(3, 100px);
+  }
+
+  .header {
+    padding-top: 1rem;
+    padding-left: 15px;
+  }
+
+  .modal-footer {
+    margin-left: 1rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+
+  .grid-container-profile {
+    grid-template-columns: repeat(2, 330px);
+    grid-template-rows: repeat(3, 100px);
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .myImg {
+    padding-top: 10px;
+    vertical-align: middle;
+    width: 120px;
+    height: 170px;
+    border-radius: 50%;
+  }
+
+  .grid-container-profile {
+    grid-template-columns: repeat(2, 180px);
+    grid-template-rows: repeat(3, 120px);
+  }
+}
+
+@media (min-width: 1200px) {
+  .container, .container-sm, .container-md, .container-lg, .container-xl {
+    max-width: 1000px !important;
+  }
 }
 
 @keyframes App-logo-spin {
