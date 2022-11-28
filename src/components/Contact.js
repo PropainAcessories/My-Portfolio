@@ -22,7 +22,7 @@ function Contact() {
                                 <h4 className="text-white">Contact Information</h4>
                                 <p>
                                     <a href="mailto:hhc3h8@gmail.com" className="text-white">
-                                        hh3h8@gmail.com
+                                        hhc3h8@gmail.com
                                     </a>
                                 </p>
                                 <p>

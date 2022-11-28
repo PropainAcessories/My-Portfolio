@@ -34,13 +34,13 @@ function contactForm() {
     function sendEmail(e) {
         e.preventDefault();
 
-        emailjs.sendForm('gmail', 'template_hw21l3h', '#contactForm', 'pTCUOdFwKBOAi8SOu')
+        emailjs.sendForm('gmail', 'template_hw21l3h', '#contactForm')
         .then(function (response) {
             console.log(response.text);
             setFormMessage('Message Sent!');
         }, function (error) {
             console.log(error.text);
-            setFormMessage('Email Could not be sent via webpage; Please email me directly at hh3h8@gmail.com');
+            setFormMessage('Email Could not be sent via webpage; Please email me directly at hhc3h8@gmail.com');
         });
     }
 
