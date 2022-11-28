@@ -45,4 +45,4 @@
   🐔Email me any support questions: hhc3h8@gmail.com<br/>
 
   ## Screenshot
-  ![Screenshot Not Found :()](../../../E:/GT-Coding-BootCamp/my-portfolio/src/assets/images/Screenshot.png)
+  ![Screenshot Not Found :(](../../../E:/GT-Coding-BootCamp/my-portfolio/src/assets/images/Screenshot.png)
