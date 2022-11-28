@@ -8,9 +8,9 @@ function Resume() {
             <div className="container bg-dark text-white">
                 <div className="row">
                     <div className="col">
-                        <div className="card">
-                            <h4>View Resume
-                            <a href="https://raw.githubusercontent.com/PropainAcessories/my-portfolio/master/src/assets/Resume.txt">Henry Howe</a>
+                        <div className="card bg-dark">
+                            <h4>View Resume:
+                            <a href="https://raw.githubusercontent.com/PropainAcessories/my-portfolio/master/src/assets/Resume.txt" className="text-white p-2">Henry Howe</a>
                             </h4>
                         </div>
 
