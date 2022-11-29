@@ -17,6 +17,20 @@ function Resume() {
                         <div className="modal-footer"/>
 
                         <div className="header">
+                            <h4>Experience:</h4>
+                        </div>
+
+                        <div className="card-body">
+                            <div className="row">
+                                <p>As of this writing I am an Entry-Level 
+                                    Developer. Without professional Experience 
+                                    in the field. I am looking forward to starting my 
+                                    new career.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div className="header">
                             <h4>Skills</h4>
                         </div>
                         <div className="modal-footer"/>
