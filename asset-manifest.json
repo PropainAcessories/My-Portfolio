@@ -1,7 +1,7 @@
 {
-  "main.css": "/my-portfolio/static/css/main.3f6d5dd8.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.5d2de2e7.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.5d2de2e7.chunk.js.map",
+  "main.css": "/my-portfolio/static/css/main.eeffa2a4.chunk.css",
+  "main.js": "/my-portfolio/static/js/main.5c2bb9c9.chunk.js",
+  "main.js.map": "/my-portfolio/static/js/main.5c2bb9c9.chunk.js.map",
   "static/js/1.093ecf0b.chunk.js": "/my-portfolio/static/js/1.093ecf0b.chunk.js",
   "static/js/1.093ecf0b.chunk.js.map": "/my-portfolio/static/js/1.093ecf0b.chunk.js.map",
   "static/css/2.eb115f06.chunk.css": "/my-portfolio/static/css/2.eb115f06.chunk.css",
@@ -17,9 +17,9 @@
   "static/media/PwaTextEditor.png": "/my-portfolio/static/media/PwaTextEditor.09f04a14.png",
   "static/media/TechForum.png": "/my-portfolio/static/media/TechForum.840ccc5b.png",
   "static/media/WeatherDashboard.png": "/my-portfolio/static/media/WeatherDashboard.2d22ebec.png",
-  "static/css/main.3f6d5dd8.chunk.css.map": "/my-portfolio/static/css/main.3f6d5dd8.chunk.css.map",
   "static/css/2.eb115f06.chunk.css.map": "/my-portfolio/static/css/2.eb115f06.chunk.css.map",
+  "static/css/main.eeffa2a4.chunk.css.map": "/my-portfolio/static/css/main.eeffa2a4.chunk.css.map",
   "index.html": "/my-portfolio/index.html",
-  "precache-manifest.399c4fd41474c7e2b7628accf82bdfab.js": "/my-portfolio/precache-manifest.399c4fd41474c7e2b7628accf82bdfab.js",
+  "precache-manifest.df175487093886561cbf00c9d81bb92e.js": "/my-portfolio/precache-manifest.df175487093886561cbf00c9d81bb92e.js",
   "service-worker.js": "/my-portfolio/service-worker.js"
 }
