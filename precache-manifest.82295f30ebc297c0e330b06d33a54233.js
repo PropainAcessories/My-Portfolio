@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5c2bb9c992d197b8574d",
-    "url": "/my-portfolio/static/css/main.eeffa2a4.chunk.css"
+    "revision": "f898358ac14a9ba827b1",
+    "url": "/my-portfolio/static/css/main.85b12ed1.chunk.css"
   },
   {
-    "revision": "5c2bb9c992d197b8574d",
-    "url": "/my-portfolio/static/js/main.5c2bb9c9.chunk.js"
+    "revision": "f898358ac14a9ba827b1",
+    "url": "/my-portfolio/static/js/main.f898358a.chunk.js"
   },
   {
     "revision": "093ecf0bec58628b4322",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/my-portfolio/static/media/WeatherDashboard.2d22ebec.png"
   },
   {
-    "revision": "3a3e8b79806294f166620e3aafbe4b3e",
+    "revision": "18362590b70c3a1569d69cb7e2dc9f81",
     "url": "/my-portfolio/index.html"
   }
 ];
