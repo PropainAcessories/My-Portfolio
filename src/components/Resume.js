@@ -14,11 +14,13 @@ function Resume() {
                             </h4>
                         </div>
 
-                        <div className="modal-footer"/>
+                        
 
                         <div className="header">
                             <h4>Experience:</h4>
                         </div>
+
+                        <div className="modal-footer"/>
 
                         <div className="card-body">
                             <div className="row">
