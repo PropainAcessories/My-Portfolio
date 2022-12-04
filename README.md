@@ -45,5 +45,5 @@
   🐔Email me any support questions: hhc3h8@gmail.com<br/>
 
   ## Screenshot
-  ![Screenshot not found check assets folder :(](../../../E:/GT-Coding-BootCamp/my-portfolio/src/assets/images/Screenshot.png)
-  
+![Screenshot](https://user-images.githubusercontent.com/106399029/205506873-62cd4e35-d6f6-449e-a8e4-7f1b0e1aaee0.png)
+
