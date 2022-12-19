@@ -5,6 +5,7 @@ import NoteTaker from './assets/images/NoteTaker.png';
 import PwaTextEditor from './assets/images/PwaTextEditor.png';
 import TechForum from './assets/images/TechForum.png';
 import WeatherDashboard from './assets/images/WeatherDashboard.png';
+import applianceXchange from './assets/images/applianceXchange.png';
 
 export default [
     {
@@ -48,5 +49,12 @@ export default [
         'image': WeatherDashboard,
         'github': 'https://github.com/PropainAcessories/Homework-6',
         'deploy': 'https://propainacessories.github.io/Homework-6/',
+    },
+    {
+        'id': 7,
+        'name': 'applianceXchange',
+        'image': applianceXchange,
+        'github': 'https://github.com/PropainAcessories/appliancexchange',
+        'deploy': 'https://radiant-brook-51903.herokuapp.com/'
     }
 ]
