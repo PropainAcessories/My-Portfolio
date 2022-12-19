@@ -1,25 +1,24 @@
 {
-  "main.css": "/my-portfolio/static/css/main.85b12ed1.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.65ec3667.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.65ec3667.chunk.js.map",
-  "static/js/1.093ecf0b.chunk.js": "/my-portfolio/static/js/1.093ecf0b.chunk.js",
-  "static/js/1.093ecf0b.chunk.js.map": "/my-portfolio/static/js/1.093ecf0b.chunk.js.map",
-  "static/css/2.eb115f06.chunk.css": "/my-portfolio/static/css/2.eb115f06.chunk.css",
-  "static/js/2.d09a7290.chunk.js": "/my-portfolio/static/js/2.d09a7290.chunk.js",
-  "static/js/2.d09a7290.chunk.js.map": "/my-portfolio/static/js/2.d09a7290.chunk.js.map",
-  "runtime~main.js": "/my-portfolio/static/js/runtime~main.6eb1ec88.js",
-  "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.6eb1ec88.js.map",
-  "static/media/App.css": "/my-portfolio/static/media/clouds.43b28ab2.jpg",
-  "static/media/Me.jpg": "/my-portfolio/static/media/Me.2a4ff0a3.jpg",
-  "static/media/MusicPilot.png": "/my-portfolio/static/media/MusicPilot.a9815532.png",
-  "static/media/BankApp.png": "/my-portfolio/static/media/BankApp.dc4e6d99.png",
-  "static/media/NoteTaker.png": "/my-portfolio/static/media/NoteTaker.979bd103.png",
-  "static/media/PwaTextEditor.png": "/my-portfolio/static/media/PwaTextEditor.09f04a14.png",
-  "static/media/TechForum.png": "/my-portfolio/static/media/TechForum.840ccc5b.png",
-  "static/media/WeatherDashboard.png": "/my-portfolio/static/media/WeatherDashboard.2d22ebec.png",
-  "static/css/main.85b12ed1.chunk.css.map": "/my-portfolio/static/css/main.85b12ed1.chunk.css.map",
-  "static/css/2.eb115f06.chunk.css.map": "/my-portfolio/static/css/2.eb115f06.chunk.css.map",
-  "index.html": "/my-portfolio/index.html",
-  "precache-manifest.93123bcec19c0d2de7f14e77e93f625e.js": "/my-portfolio/precache-manifest.93123bcec19c0d2de7f14e77e93f625e.js",
-  "service-worker.js": "/my-portfolio/service-worker.js"
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.5500c4dc.css",
+    "main.js": "/my-portfolio/static/js/main.7c7e4e96.js",
+    "static/js/787.a2cb61a6.chunk.js": "/my-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/MusicPilot.png": "/my-portfolio/static/media/MusicPilot.d5b1603beafe049ba443.png",
+    "static/media/WeatherDashboard.png": "/my-portfolio/static/media/WeatherDashboard.91eb52c7af447e253f84.png",
+    "static/media/clouds.jpg": "/my-portfolio/static/media/clouds.fe937d180479e0b975e6.jpg",
+    "static/media/Me.jpg": "/my-portfolio/static/media/Me.45e1b959698ea2c942fa.jpg",
+    "static/media/ApplianceXchange.png": "/my-portfolio/static/media/ApplianceXchange.50e748b882b179ea8064.png",
+    "static/media/BankApp.png": "/my-portfolio/static/media/BankApp.eed4ae1e24ba5867f837.png",
+    "static/media/TechForum.png": "/my-portfolio/static/media/TechForum.270aadbc43e3dd230321.png",
+    "static/media/NoteTaker.png": "/my-portfolio/static/media/NoteTaker.59d2a76befc9b406f0ac.png",
+    "static/media/PwaTextEditor.png": "/my-portfolio/static/media/PwaTextEditor.81aaada3fc6fc31e3742.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.5500c4dc.css.map": "/my-portfolio/static/css/main.5500c4dc.css.map",
+    "main.7c7e4e96.js.map": "/my-portfolio/static/js/main.7c7e4e96.js.map",
+    "787.a2cb61a6.chunk.js.map": "/my-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5500c4dc.css",
+    "static/js/main.7c7e4e96.js"
+  ]
 }
