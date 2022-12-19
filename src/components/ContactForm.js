@@ -5,7 +5,7 @@ import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import '../App.css';
 
-function contactForm() {
+function ContactForm() {
     const [formState, setFormState] = useState({ name: '', email: '', subject: '', message: '' });
     const [formMessage, setFormMessage] = useState('');
 
@@ -72,4 +72,4 @@ function contactForm() {
     )
 }
 
-export default contactForm;
+export default ContactForm;

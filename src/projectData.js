@@ -5,9 +5,9 @@ import NoteTaker from './assets/images/NoteTaker.png';
 import PwaTextEditor from './assets/images/PwaTextEditor.png';
 import TechForum from './assets/images/TechForum.png';
 import WeatherDashboard from './assets/images/WeatherDashboard.png';
-import applianceXchange from './assets/images/applianceXchange.png';
+import applianceXchange from './assets/images/ApplianceXchange.png';
 
-export default [
+export default[
     {
         'id': 1,
         'name': 'Music Pilot',
