@@ -11,7 +11,7 @@ function About() {
 
                             <div className="card-body bg-dark">
                                 <div className="row about-row">
-                                    <img className="myImg" src={Me}/>
+                                    <img className="myImg" src={Me} alt="me"/>
                                 </div>
                             </div>
 

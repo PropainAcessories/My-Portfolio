@@ -92,8 +92,8 @@
 .myImg {
   padding-top: 10px;
   vertical-align: middle;
-  width: 25%;
-  height: 50%;
+  width: 30%;
+  height: 80%;
   border-radius: 50%;
 }
 
@@ -161,8 +161,8 @@
   .myImg {
     padding-top: 10px;
     vertical-align: middle;
-    width: 120px;
-    height: 170px;
+    width: 23%;
+    height: 34%;
     border-radius: 50%;
   }
 
@@ -178,11 +178,3 @@
   }
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
