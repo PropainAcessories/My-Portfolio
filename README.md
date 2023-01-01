@@ -1,5 +1,3 @@
-![Screenshot](https://user-images.githubusercontent.com/106399029/210178996-7b3355cd-3057-463b-880b-a5ee8c08510a.png)
-
   <h1 align="center"> my-portfolio</h1>
 
   ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
