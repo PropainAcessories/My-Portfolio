@@ -10,7 +10,7 @@ function Portfolio() {
             <div className="container">
                 <div className="row">
                     <div className="col">
-                        <div className="card bg-secondary">
+                        <div className="card">
                             <div className="card-body">
                                 <div className="header">
                                     <h3 className="text-white">My Portfolio</h3>
