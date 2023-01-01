@@ -9,10 +9,8 @@ function About() {
                     <div className="col">
                         <div className="card bg-dark">
 
-                            <div className="card-body bg-dark">
-                                <div className="row about-row">
-                                    <img className="myImg" src={Me} alt="me"/>
-                                </div>
+                            <div className="card-header about-row bg-dark">
+                                <img className="myImg" src={Me} alt="me"/>
                             </div>
 
                             <div className="card-body bg-dark text-white">

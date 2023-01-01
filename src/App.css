@@ -92,14 +92,13 @@
 .myImg {
   padding-top: 10px;
   vertical-align: middle;
-  width: 30%;
-  height: 80%;
+  width: 38%;
+  height: 46%;
   border-radius: 50%;
 }
 
 .about-row {
   background-image: url('assets/images/clouds.jpg');
-  height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
 }
