@@ -1,3 +1,4 @@
+![Screenshot](https://user-images.githubusercontent.com/106399029/210178996-7b3355cd-3057-463b-880b-a5ee8c08510a.png)
 
   <h1 align="center"> my-portfolio</h1>
 
@@ -45,5 +46,5 @@
   🐔Email me any support questions: hhc3h8@gmail.com<br/>
 
   ## Screenshot
-  ![Screenshot not found check assets folder :(](../../../E:/GT-Coding-BootCamp/my-portfolio/src/assets/images/Screenshot.png)
-  
+![Screenshot](https://user-images.githubusercontent.com/106399029/210179003-12eb0c65-35fb-4afc-9090-71b48cd73f3c.png)
+
