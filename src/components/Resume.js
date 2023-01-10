@@ -33,7 +33,7 @@ function Resume() {
                         </div>
 
                         <div className="header">
-                            <h4>Skills</h4>
+                            <h4>Tech-Skills</h4>
                         </div>
                         <div className="modal-footer"/>
 
@@ -41,11 +41,15 @@ function Resume() {
                             <div className="row">
                                 <div className="">Technologies:</div>
                                 <ul>
+                                    <li>Pandas</li>
+                                    <li>Numpy</li>
+                                    <li>Spring/spring-boot</li>
+                                    <li>Flask</li>
                                     <li>Node.Js</li>
                                     <li>MySQL, MongoDB and GraphQL</li>
                                     <li>Express, Mongoose, Jest, and Inquirer</li>
                                     <li>Handlebars, Webpack, and React</li>
-                                    <li> Bootstrap, tailwind, and bulma (Css).</li>
+                                    <li>Bootstrap, tailwind, and bulma (Css).</li>
                                     <li>Understanding of full-stack web/mobile applications.</li>
                                 </ul>
                             </div>
