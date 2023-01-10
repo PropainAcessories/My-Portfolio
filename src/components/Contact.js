@@ -26,7 +26,7 @@ function Contact() {
                                     </a>
                                 </p>
                                 <p>
-                                    <a href='https://github.com/PropainAcessories' target='_blank' className="text-white">My GitHub</a>
+                                    <a href='https://github.com/PropainAcessories' target='_blank' rel='noreferrer' className="text-white">My GitHub</a>
                                 </p>
                                 <p>
                                     <a href='https://www.linkedin.com/in/henry-howe-a13341258/' className="text-white">LinkedIn</a>
