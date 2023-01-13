@@ -34,18 +34,13 @@ function Resume() {
 
                         <div className="header">
                             <h4>Skills</h4>
-                            <ul>
-                                <li>JavaScript</li>
-                                <li>Python</li>
-                                <li>Java</li>
-                            </ul>
                         </div>
                         <div className="modal-footer"/>
 
                         <div className="card-body">
                             <div className="row">
                                 <div className="">Technologies:</div>
-                                <ul>
+                                <ul className="skillList">
                                     <li>Heroku and other cloud environments.</li>
                                     <li>Numpy and Pandas</li>
                                     <li>Spring/Spring-boot</li>

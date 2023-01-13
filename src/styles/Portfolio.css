@@ -8,6 +8,10 @@
     background-color: #8050c8;
 }
 
+.skillList {
+    list-style-type: none;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
