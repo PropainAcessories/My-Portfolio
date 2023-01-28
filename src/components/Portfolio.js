@@ -3,6 +3,7 @@ import projectData from '../projectData';
 import ProjectCards from "../components/Project";
 import '../App.css';
 import '../styles/Portfolio.css';
+const frown = ":(";
 
 function Portfolio() {
     return(
@@ -14,6 +15,10 @@ function Portfolio() {
                             <div className="card-body">
                                 <div className="header">
                                     <h3 className="text-white">My Portfolio</h3>
+                                    <p className="text-white">
+                                        Note: Heroku Deployments down due to me not having
+                                        the money to keep them deployed. Sorry {frown}.
+                                    </p>
                                 </div>
                                 <div className="modal-footer" />
 
