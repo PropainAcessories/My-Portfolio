@@ -9,7 +9,7 @@ function Resume() {
                 <div className="row">
                     <div className="col">
                         <div className="card bg-dark">
-                            <h4>Download Resume:
+                            <h4 className="text-white">Download Resume:
                             <a href="https://github.com/PropainAcessories/my-portfolio/raw/master/src/assets/Resume-Henry-Howe.pdf" className="text-white p-2">Henry Howe</a>
                             </h4>
                         </div>
@@ -22,7 +22,7 @@ function Resume() {
 
                         <div className="modal-footer"/>
 
-                        <div className="card-body">
+                        <div className="card-body2">
                             <div className="row">
                                 <p>
                                     I have been a freelance web developer for over a year. I have experience with on premises servers
@@ -38,7 +38,7 @@ function Resume() {
                         </div>
                         <div className="modal-footer"/>
 
-                        <div className="card-body">
+                        <div className="card-body2">
                             <div className="row">
                                 <div className="">Technologies:</div>
                                 <ul className="skillList">
