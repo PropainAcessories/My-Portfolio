@@ -24,10 +24,11 @@ function Resume() {
 
                         <div className="card-body">
                             <div className="row">
-                                <p>As of this writing I am an Entry-Level 
-                                    Developer. Without professional Experience 
-                                    in the field. I am looking forward to starting my 
-                                    new career.
+                                <p>
+                                    I have been a freelance web developer for over a year. I have experience with on premises servers
+                                    as well as cloud deployments. I have worked on websites of varying size and complexity, both adding features
+                                    to existing websites as well as building new ones from scratch. I am also in search of employment and have skills 
+                                    outside of web development.
                                 </p>
                             </div>
                         </div>
@@ -41,16 +42,15 @@ function Resume() {
                             <div className="row">
                                 <div className="">Technologies:</div>
                                 <ul className="skillList">
-                                    <li>Heroku and other cloud environments.</li>
-                                    <li>Numpy and Pandas</li>
-                                    <li>Spring/Spring-boot</li>
-                                    <li>Flask</li>
-                                    <li>Node.Js</li>
-                                    <li>MySQL, MongoDB and GraphQL</li>
-                                    <li>Express, Mongoose, Jest, and Inquirer</li>
-                                    <li>Handlebars, Webpack, and React</li>
-                                    <li> Bootstrap, tailwind, and bulma (Css).</li>
-                                    <li>Understanding of full-stack web/mobile applications.</li>
+                                    <li>Cloud environments.</li>
+                                    <li>Machine Learning</li>
+                                    <li>Pandas, NumPy, SciKit</li>
+                                    <li>C++/Python/R</li>
+                                    <li>Node.Js and Apache</li>
+                                    <li>Relational and NoSQL databases</li>
+                                    <li>Test Driven Development</li>
+                                    <li>JavaScript UI frameworks(React, Angular, Vue)</li>
+                                    <li>Linux Server</li>
                                 </ul>
                             </div>
                         </div>

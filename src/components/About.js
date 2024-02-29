@@ -16,10 +16,9 @@ function About() {
                             <div className="card-body bg-dark text-white">
                                 <div className="row">
                                     <p className="aboutMe">
-                                        My Name is Henry Howe. As of writing this I am an entry-level 
-                                        web-developer. Capable of making and working on full-stack web and 
-                                        Mobile applications. I have a wide variety of skills, and am looking forward 
-                                        to making a useful addition to a company in the very-near future.
+                                        My Name is Henry Howe. I currently build, repair and maintain websites. Currently taking clients
+                                        and customers. I have experience with a wide array of languages and frameworks. I 
+                                        enjoy learning more about older and newer technologies alike. I am also open to new customers and clients.
                                     </p>
                                 </div>
                             </div>
