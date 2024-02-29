@@ -53,7 +53,7 @@ function ContactForm() {
 
             <Form.Group controlId='email'>
                 <Form.Label>Your Email</Form.Label>
-                <Form.Control required name='email' placeholder="3000@blackjets.allah" onBlur={handleChange}></Form.Control>
+                <Form.Control required name='email' placeholder="youremail@website.web" onBlur={handleChange}></Form.Control>
             </Form.Group>
 
             <Form.Group controlId='subject'>
