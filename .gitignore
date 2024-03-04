@@ -3,10 +3,11 @@
 # dependencies
 /node_modules
 /.pnp
-.pnp.js
+/.pnp.js
+/.pnp.loader.mjs
 # testing
 /coverage
-
+.
 # production
 /build
 
@@ -16,11 +17,11 @@
 .env.development.local
 .env.test.local
 .env.production.local
-
+.pnp.cjs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.pnp.*
+.pnp.cjs*
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
